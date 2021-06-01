@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BluetoothDemo</string>
+    <string name="off">Off</string>
+    <string name="status">Status</string>
+    <string name="enable_bluetooth">Enable Bluetooth</string>
+    <string name="camera_and_location_rationale">This App Require location permission</string>
+</resources>
